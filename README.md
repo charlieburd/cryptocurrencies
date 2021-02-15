@@ -1,3 +1,3 @@
 # Module 18 - Cryptocurrencies Analysis
 
-#### A README.md that includes the purpose of the repository and short description of what was accomplished. Although there is no graded written analysis for this challenge, it is encouraged and good practice to add a brief description of your project.
+#### This module was to use unsupervised machine learning to analyize crypto-currenties using Principal Component Analysis, clustering, and visualizeing the data .
